@@ -1,4 +1,22 @@
-## CodeAlpha_LanguageTranslationTool
+# CodeAlpha_LanguageTranslationTool
+│
+├── main.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── LICENSE
+
+# 📄 Detailed File Descriptions
+**1. main.py (or app.py)**
+Purpose: The main executable script containing your Tkinter UI code and translation logic.
+Content: The Python script using deep-translator and tkinter that we built earlier.
+
+**2. requirements.txt**
+Purpose: Tells GitHub and other users which Python packages need to be installed to run your app.
+
+**Content:**
+deep-translator>=1.11.4
+pyperclip>=1.8.2
 
 # 📝 Project Overview
 Project Title: AI Language Translation Tool
@@ -21,3 +39,4 @@ Programming Language: Python 3
 GUI Framework: Tkinter / ttk
 Translation Engine: deep-translator (Google Translate API wrapper)
 Utilities: pyperclip (for clipboard operations)
+
