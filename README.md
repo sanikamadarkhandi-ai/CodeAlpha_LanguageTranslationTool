@@ -27,7 +27,8 @@ Organization: CodeAlpha
 This project is a desktop-based **Language Translation Tool** designed to seamlessly process and translate text across multiple languages in real-time. Built using **Python**, the application features an intuitive graphical user interface (GUI) developed with Tkinter and leverages translation API services to deliver accurate language translation.
 **AI Language Translation Tool** — A desktop GUI application built with Python and Tkinter that leverages translation APIs to provide real-time, multi-language translation with auto-detection and a built-in copy feature. Developed for Task 1 of the CodeAlpha AI Internship.
 
-# Key FeaturesAuto-Language Detection: Automatically identifies the input text language.
+# Key Features
+Auto-Language Detection: Automatically identifies the input text language.
 Multi-Language Support: Translates text into over 100+ global target languages.
 Multi-Language Support: Translates text into over 100+ global target languages.
 User-Friendly Interface: Clean side-by-side input and output text layout.
