@@ -41,3 +41,7 @@ GUI Framework: Tkinter / ttk
 Translation Engine: deep-translator (Google Translate API wrapper)
 Utilities: pyperclip (for clipboard operations)
 
+# Author 
+**Sanika Malku Madarkhandi**
+
+Data Analytics Intern
